@@ -64,7 +64,7 @@ use will be successful. You just need to strictly follow the procedure described
     electronize init
     ```
 
-6. Installation of ElectronNET and connection of Angular/React is completed. You can customize the **electron.manifest.json** file by entering
+6. Installation of Electron.NET and connection of Angular/React is completed. You can customize the **electron.manifest.json** file by entering
    the name of the application, its version and information about the developer. Also you can change window options (size, minimal and maximal size etc).
 
 7. To run the application, enter the following command:
