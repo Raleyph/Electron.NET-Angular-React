@@ -11,8 +11,8 @@ The Electron installation process contains some subtleties, if observed, the ins
 use will be successful. You just need to strictly follow the procedure described below.
 
 1. Create **ASP.NET Core with Angular/React** template project (naturally, you can create a regular ASP.NET Core project and connect Angular/React there yourself).
-2. Install [ElectronNET.API](https://www.nuget.org/packages/ElectronNET.API) from NuGet.
-3. Run the project by pressing F5 (very important).
+2. Run the project by pressing F5 (very important).
+3. Install [ElectronNET.API](https://www.nuget.org/packages/ElectronNET.API) from NuGet.
 4. Paste this code to **Program.cs**:
     ```csharp
     using ElectronNET.API;
